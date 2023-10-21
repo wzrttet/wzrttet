@@ -1,9 +1,10 @@
-# Me
-Just a coder  
-Like C and Lua  
+# About Me
+🐵A 13-year-old student  
+😀Like C and lua  
+😦But a noob  
 
 # My project
--none
+😑May be will have
 
 
 
