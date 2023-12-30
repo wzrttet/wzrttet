@@ -1,10 +1,10 @@
-# About Me
-- 🐵Github name:wzrttet; Bilibili name:桜の下の恋です; Bilibili space:https://space.bilibili.com/660127072    
-- 😀Like python is learning dotnet  
-- 😦But a noob  
-
-# My project
-- 😑May be will have
-
+# 关于我
+## 一些主页
+Github: https://github.com/wzrttet  
+bilibili: https://space.bilibili.com/660127072  
+## 语言和爱好
+- C语言热爱者
+- 喜欢编译原理研究
+- 极简主义者
 
 
